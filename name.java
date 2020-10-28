@@ -14,7 +14,7 @@ public class name {
         durch4 = 5;
         operator = 0;
 
-        while (operator <= 5) {
+        while (operator != 5) {
             System.out.println("[1] zwei Noten Durchschnitt");
             System.out.println("[2] drei Noten Durchschnitt");
             System.out.println("[3] vier Noten Durchschnitt");
